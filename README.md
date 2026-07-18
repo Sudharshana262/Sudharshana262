@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Sudharshana</h1>
-<h3 align="center">Cyber Security Enthusiast | Ethical Hacking Learner | Student</h3>
+<h3 align="center">Aspiring Cybersecurity Professional | Network Security • SOC • Linux • Ethical Hacking | Building Hands on Security Projects | Computing Student</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sudharshana262&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
@@ -13,16 +13,19 @@
 
 # 💫 About Me
 
-🔐 Passionate about Cyber Security and Ethical Hacking
+Cybersecurity is more than the career I want to pursue it is the field I am committed to building my future in.
 
-🛡️ Interested in Penetration Testing, Network Security, and Digital Forensics
+ 
 
-📚 Continuously learning security tools, techniques, and best practices
+I am currently a Computing student specializing in Cybersecurity, with a strong interest in Security Operations (SOC), Network Security, Linux, and Information Security. Alongside my academic studies, I continuously strengthen my skills through hands-on projects, cybersecurity labs, and self-directed learning.
 
-🎯 Goal: Become a Professional Cyber Security Specialist
+I believe practical experience is just as important as theory. To develop real world skills, I actively work on cybersecurity projects, explore security concepts through platforms like TryHackMe, and build a portfolio on GitHub that reflects my learning journey.
 
-⚡ Always curious about how systems work and how to secure them
+My long term goal is to begin my career as a SOC Analyst and grow into advanced cybersecurity roles in areas such as Incident Response, Threat Detection, Blue Team Operations, and Security Engineering.
 
+I enjoy solving technical challenges, learning emerging technologies, and continuously improving my knowledge to stay current in the ever-evolving cybersecurity landscape.
+
+I am always open to connecting with cybersecurity professionals, recruiters, and like minded learners who share a passion for technology, security, and continuous growth.
 ---
 
 # 🛠️ Skills & Tools
