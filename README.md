@@ -6,7 +6,7 @@
 <h3 align="center">Aspiring Cybersecurity Professional | Network Security • SOC • Linux • Ethical Hacking | Building Hands on Security Projects | Computing Student</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sudharshana262&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Sudharshana262&label=Profile%20Views&color=blue&style=flat" alt="profile views" </img>
 </p>
 
 ---
